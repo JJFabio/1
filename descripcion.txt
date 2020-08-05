@@ -1,0 +1,28 @@
+MESAS
+RESEREVA
+taula/s (tiempo)
+
+(id) estado
+	libre, reserva time, sin atender, atendiendo, 5min, pendiente pago, cuenta, pagado
+
+
+tomar_nota taula
+
+cliente o posición/ compartir
+
+COMANDAS 
+-barra
+-cocina
+espera, preparación, campana
+
+
+CUENTA 
+
+taula(id)"IMPORTE"
+(cliente)"importe"
+
+TICKET
+Datos bar 
+Datos cliente 
+Descripción 
+Puntos acumulados
